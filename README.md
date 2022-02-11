@@ -1,24 +1,29 @@
 # Software Engineer Assignment
 
+
+This is a take-home assignment given by a company that i really enjoyed doing...
+
+<p align = 'center' >
+    <img alt = 'home_imge' width = 550px src = 'results/scraping.gif'>
+</p>
+
 ## Approach : 
 
-* I wasn't familer with  *Scarpy* so I learned it from YouTube and documentations. 
 * Here I have made 3 spiders. 
     * spider1.py for clothes 
     * spider2.py for shoes
     * spider_all.py for both
+
 * I have also stored the scraped data into three seperate json files for later use.
 
 * Here I have used mongodb compass.
 
-* I couldn't find any product on discounted price. If you could show me how to see sale price then it can also be added properly changing just a few lines of code. 
 
 
 ## Document Structure 
 
 ```
-cliff.ai
-│
+
 |---- cliff
 │   |
 |   |---- __pycache__ 
@@ -48,7 +53,6 @@ cliff.ai
 |   |---- query.js
 |
 |---- results
-│    │---- part2-question answers.pdf
 │    │---- Screenshot1.jpg
 │    │---- Screenshot2.jpg
 │    │---- Screenshot3.jpg
@@ -59,3 +63,18 @@ cliff.ai
 |---- scrapy.cfg
 
 ```
+
+## Technologies used : 
+
+* python library - pymongo, scrapy 
+* version control - git 
+* database - MongoDB
+
+## Tools used : 
+* IDE - Vs code 
+* GUI for querry - MongoDB compass
+
+## If you Liked this project the you can consider connecting with me:
+* [LinkedIn](https://www.linkedin.com/in/soumyadip-ghorai/) 
+
+* You can find my other projects and EDAs on [Kaggle](https://www.kaggle.com/soumyadipghorai)
