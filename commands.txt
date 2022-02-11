@@ -1,0 +1,2 @@
+## scrapy crawl spider_name --> to start crawling and uploding the data into database 
+## scrapy crawl spider_name -o filename.json --> to stored the scrapped data into a json file 
